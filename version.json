@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.7",
+  "versionCode": 4,
+  "versionName": "1.8",
   "apkUrl": "https://raw.githubusercontent.com/mmdohtamer808-glitch/maktabti-books/main/maktabti-update.apk",
-  "changelog": "إضافة نظام التحديث الأونلاين داخل التطبيق وتحسين الأداء.",
+  "changelog": "Update build.gradle",
   "forceUpdate": false
 }
