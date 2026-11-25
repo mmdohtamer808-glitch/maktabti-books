@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "title": "روايات",
+      "books": [
+        { "file": "book7.pdf", "title": "امرأة من عالم الجن", "cover": "book7.jpg" },
+        { "file": "book8.pdf", "title": "أنت لي", "cover": "book8.jpg" },
+        { "file": "book10.pdf", "title": "ليطمئن قلبي", "cover": "book10.jpg" },
+        { "file": "book11.pdf", "title": "أرض زيكولا", "cover": "book11.jpg" },
+        { "file": "book12.pdf", "title": "بدم بارد", "cover": "book12.jpg" },
+        { "file": "book13.pdf", "title": "غيوم تائهة", "cover": "book13.jpg" },
+        { "file": "book14.pdf", "title": "لم أعد أبكي", "cover": "book14.jpg" },
+        { "file": "book15.pdf", "title": "11:11", "cover": "book15.jpg" },
+        { "file": "book16.pdf", "title": "عروس المطر", "cover": "book16.jpg" },
+        { "file": "book17.pdf", "title": "امرأة سيئة جدا", "cover": "book17.jpg" },
+        { "file": "book18.pdf", "title": "ثاني أكسيد الحب", "cover": "book18.jpg" },
+        { "file": "book19.pdf", "title": "ابتسم فأنت ميت", "cover": "book19.jpg" }
+      ]
+    },
+    {
+      "title": "تطوير الذات",
+      "books": [
+        { "file": "book1.pdf", "title": "العادات الذرية", "cover": "book1.jpg" },
+        { "file": "book2.pdf", "title": "فن اللامبالاة", "cover": "book2.jpg" },
+        { "file": "book3.pdf", "title": "ابدأ بلماذا", "cover": "book3.jpg" }
+      ]
+    },
+    {
+      "title": "رعب",
+      "books": [
+        { "file": "book4.pdf", "title": "دركولا", "cover": "book4.jpg" },
+        { "file": "book5.pdf", "title": "أرض سَالِم", "cover": "book5.jpg" },
+        { "file": "book6.pdf", "title": "1408", "cover": "book6.jpg" },
+        { "file": "book9.pdf", "title": "17 قصة رعب", "cover": "book9.jpg" }
+      ]
+    }
+  ]
+}
