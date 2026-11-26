@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "2.1",
+  "versionCode": 8,
+  "versionName": "2.2",
   "apkUrl": "https://raw.githubusercontent.com/mmdohtamer808-glitch/maktabti-books/main/maktabti-update.apk",
-  "changelog": "Update build.gradle",
+  "changelog": "تم إضافة تحسينات للواجهة والاستخدام",
   "forceUpdate": false
 }
